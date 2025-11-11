@@ -23,8 +23,6 @@ It’s for quick reference, learning, and practice.
 - Window functions (RANK, DENSE_RANK, LAG, LEAD)  
 - Conditional logic using CASE  
 - Date and time queries  
-- String pattern filters (LIKE, REGEXP)
-
 ---
 
 ##  Notes
