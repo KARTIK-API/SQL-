@@ -36,4 +36,4 @@ It’s for quick reference, learning, and practice.
 
 ##  Author
 **Kartik**  
-SQL | Data Analyst in Progress | Learning by Building
+Data Analyst | Learning by Building
